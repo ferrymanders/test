@@ -2,5 +2,5 @@
 
 echo "# Running run.sh"
 
-# Run origional run script
+# Run original run script
 /usr/libexec/s2i/run
